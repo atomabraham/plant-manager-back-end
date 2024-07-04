@@ -1,4 +1,4 @@
-Installation et Fonctionnement de l'Application Plant-Managergi Backend (Laravel)
+Installation et Fonctionnement de l'Application Plant-Managerg Backend (Laravel)
 
 Développeur: TADZONG MBIPE ABRAHAM
 
