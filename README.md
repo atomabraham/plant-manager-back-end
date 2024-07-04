@@ -11,8 +11,8 @@ Prérequis
 Installation
 Clonage du Projet:
 
-git clone
-cd nom_du_projet_backend
+git clone https://github.com/atomabraham/plant-manager-back-end.git
+cd plant-manager-back-end
 
 Installation des Dépendances:
 
